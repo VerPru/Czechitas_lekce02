@@ -1,0 +1,1 @@
+document.body.innerHTML = "<h2>Lekce 02 - Příjem divadla</h2>"
