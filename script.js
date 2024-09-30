@@ -18,3 +18,5 @@ let prijemNestudenti = pocetNavstevniku* (1-procentoStudentu) * listek * pocetPr
 
 let prijemSeSlevou = prijemStudenti + prijemNestudenti
 document.body.innerHTML += "<p>" + "Měsíční příjem se slevou: " + prijemSeSlevou + " euro" + "</p>"
+
+//ahoj
